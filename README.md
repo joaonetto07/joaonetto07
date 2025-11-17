@@ -1,10 +1,11 @@
-## # 👋 Opa meu nome e João Netto Martins!
+# 👋 Olá, eu sou João Alexandre!
  
 ## 🧑 Sobre mim
 - 📍 **Localização:** Brasília, Brasil  
-- 🎓 **Idade:** 17 anos  
+- 🎓 **Idade:** 18 anos  
 - 🏫 **Formação:**  
-  - Ensino Médio em andamento   
+  - Ensino Médio em andamento  
+  - Curso de **Montagem e Configuração de PCs**  
   - Atualmente cursando **Análise e Desenvolvimento de Sistemas** no **Senac**  
 - 💻 **Interesses:** Informática, tecnologia e inovação  
 - 🚀 **Objetivo:** Aprender, compartilhar conhecimento e evoluir como desenvolvedor
@@ -41,6 +42,38 @@
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="HTML"
+    title="HTML" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="CSS" 
+    title="CSS"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="JavaScript" 
+    title="JavaScript"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Bootstrap"
+    title="Bootstrap" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
 />
  
 <br/>
