@@ -3,10 +3,9 @@
  
 ## 🧑 Sobre mim
 - 📍 **Localização:** Brasília, Brasil  
-- 🎓 **Idade:** 18 anos  
+- 🎓 **Idade:** 17 anos  
 - 🏫 **Formação:**  
   - Ensino Médio em andamento  
-  - Curso de **Montagem e Configuração de PCs**  
   - Atualmente cursando **Análise e Desenvolvimento de Sistemas** no **Senac**  
 - 💻 **Interesses:** Informática, tecnologia e inovação  
 - 🚀 **Objetivo:** Aprender, compartilhar conhecimento e evoluir como desenvolvedor
